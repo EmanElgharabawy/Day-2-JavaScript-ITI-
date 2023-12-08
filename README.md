@@ -1,4 +1,5 @@
 # Day-2-JavaScript-ITI-
+ Task 1-
  Age Status Checker:
 Ask the user to input their age (positive numbers only). Validate the input and then classify the user's status based on age ranges:
 
